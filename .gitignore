@@ -1,0 +1,11 @@
+*
+
+!src
+!src/**
+!.editorconfig
+!.gitignore
+!.prettierrc.json
+!jest.config.js
+!package*.json
+!README.md
+!tsconfig*.json
